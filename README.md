@@ -1,6 +1,6 @@
 # Hello, folks! 👋
 
-My name is **Hassan Zohaib**, and I'm a passionate **Web Developer** specializing in **Next.js** and **TypeScript**. I enjoy building scalable, high-performance web applications and exploring the latest technologies in the web development space.
+My name is **Hassan Zohaib**, and I'm a passionate **Web Developer** specializing in **React**, **React Native**, **Next.js** and **TypeScript**. I enjoy building scalable, high-performance web applications and exploring the latest technologies in the web development space.
 
 ## Personal Projects
 
