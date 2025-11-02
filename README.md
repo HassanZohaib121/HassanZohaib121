@@ -28,6 +28,7 @@ My name is **Hassan Zohaib**, and I'm a passionate **Web Developer** specializin
 
 ## GitHub Stats
 
+[![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=HassanZohaib121)](https://github.com/HassanZohaib121/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HassanZohaib121&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HassanZohaib121&layout=compact&theme=radical)
 
